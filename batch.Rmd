@@ -42,6 +42,11 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 
 ```{r}
-
+data <- read.table(file = 'shell_output.txt', header = FALSE, sep = "")
 ```
+
+```{r num_lines}
+plot(data$V1)
+```
+
 
