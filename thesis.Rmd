@@ -10,6 +10,7 @@ this is *really* **really** cool stuff
 
 `print("hello")`
 
+`print("forking is cool")`
 ## Methods
 
 - get item 1
